@@ -1,0 +1,42 @@
+body{
+    font-family: 'Yusei Magic', sans-serif;
+    background-color: tan;
+}
+.banner-sec{
+    border: 1.5em;
+}
+.banner-img width{
+display: block;
+margin: auto 0;
+padding-right: 40px;
+}
+.banner-width{
+width: fit-content;
+}
+
+#container{
+    border-radius: 10px;
+    margin: 10px;
+}
+.shoes-card-footer{
+    background-color: white;
+    border: 0;
+}
+h1{
+    margin-top:5%;
+    margin-bottom: 5%;
+}
+
+
+  
+ .btn{
+    color:white;
+    border-radius: 5px !important;
+    font-size: 10px !important;
+ }
+    
+
+ .card-img-top{
+     border-radius: 20px;
+ }
+ 
