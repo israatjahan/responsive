@@ -5,8 +5,9 @@ body{
 .banner-sec{
     border: 1.5em;
 }
-.banner-img width{
+.banner-img-width{
 display: block;
+width: 100px;
 margin: auto 0;
 padding-right: 40px;
 }
@@ -38,5 +39,6 @@ h1{
 
  .card-img-top{
      border-radius: 20px;
+     padding: 2px;
  }
  
